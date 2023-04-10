@@ -1,7 +1,6 @@
-# Build and Deploy an AI-Powered 3D Website Using React | 2023 Three JS Course Tutorial for Beginners
-![3D Website](https://i.ibb.co/Krk39Cf/Thumbnali.png)
-
 ## Introduction
-Many large corporations already use 3D graphics to showcase their products. Learn how to build your own ThreeJS 3D product website and infuse it with the power of artificial intelligence! 
+This Website is a Three.JS website where I showacase my Skills and interst in Developing/Deploying a Website with Threejs and React.
+![Screenshot 2023-04-10 211121](https://user-images.githubusercontent.com/123828903/230943581-7008542a-b4cc-4de8-a0f8-5b94ca1ae811.png)
+
 # For more informatoion visit my instagram account where you can find more intersting projects with thier short tutorial and contact me at Email: hassaansultan720@gmail.com  https://www.instagram.com/hassaan_codes/
  
